@@ -1,10 +1,9 @@
 # Snake_Game-Vidhi_Bhatt
-# Snake_Game-Vidhi_Bhatt
 <h2> What is NAAG LOK ? 🐍</h2>
 <p> This is a  basic <strong> SnakeGame </strong> made using python to revise my HTML , CSS , JS concepts.</p>
 <br>
 <hr>
-<img src = "" ></a>
+<img src = "https://github.com/VidhiBhatt01/Snake_Game-Vidhi_Bhatt/blob/main/Snake%20Game/Img1.png" ></a>
 <hr>
 <br>
 <h2>Demo video</h2>
